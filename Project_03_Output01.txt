@@ -1,0 +1,21 @@
+StudentID	First Name	Last Name	Email
+900123457	Jane	Doe	janedoe@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+=========================================================================================
+	Total											0		0			0.0%
+
+900123458	Mary	Smith	marysmith@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+=========================================================================================
+	Total											0		0			0.0%
+
+900123459	David	Smith	davidsmith@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+=========================================================================================
+	Total											0		0			0.0%
+
+900123457	Joe	Doe	joedoe@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+=========================================================================================
+	Total											0		0			0.0%
+

@@ -1,0 +1,20 @@
+3. Input file with an invalid GradeItem type.
+
+STUDENT,ADD,900123456,Joe,Doe,joedoe@msudenver.edu
+GRADE ITEM,ADD,1,900123456,23456,exam,20190112,100,95
+
+
+
+Please enter a file number: 03
+java.lang.IllegalArgumentException: This ItemType is not on the itemtype list 
+
+
+Running Test 1a: 
+Student [student Id = 900123456, first Name = Joe, last Name = Doe, email Address = joedoe@msudenver.edu]
+
+java.lang.NullPointerException
+Running Test 1b
+
+Process finished with exit code 0
+
+

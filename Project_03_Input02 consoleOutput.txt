@@ -1,0 +1,25 @@
+Please enter a file number: 02
+Reading data from file Project_03_Input02.txt
+java.lang.IllegalArgumentException: Email address: 'joedoe#msudenver.edu' has no required @
+Student was not added to the list
+Student with Student Id 900123456 was added to the list
+Grade Item with Grade Item Id 1 was added to the list
+Grade Item with Grade Item Id 2 was added to the list
+Grade Item with Grade Item Id 3 was added to the list
+Student with Student Id 900123456 is already in the list
+Grade Item with Student Id 900123456 and Grade Item Id 1 is already in the list
+Student with Student Id 900123457 was added to the list
+Student with Student Id 900123458 was added to the list
+Grade Item with Grade Item Id 1 was added to the list
+Grade Item with Grade Item Id 2 was added to the list
+Grade Item with Grade Item Id 3 was added to the list
+Student with Student Id 900123459 was added to the list
+Grade Item with Grade Item Id 1 was added to the list
+Grade Item with Grade Item Id 2 was added to the list
+Grade Item with Grade Item Id 3 was added to the list
+java.lang.IllegalArgumentException:  Actual score can not be more than the Maximum score 
+Grade Item was not added to the list
+Grade Item with Grade Item Id 3 was added to the list
+Student with Student Id 900123457 was added to the list
+Grade Item with Grade Item Id 1 was removed from the list
+Generating report to file Project_03_Output02.txt ... done.

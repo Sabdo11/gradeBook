@@ -1,0 +1,16 @@
+2.CHECKING FILE FOR INVALID EMAIL ADDRESS:
+
+INPUT:
+STUDENT,ADD,900123456,Joe,Doe,joedoe
+GRADE ITEM,ADD,1,900123456,23456,HW,20190112,100,95
+
+
+
+Please enter a file number: 02
+java.lang.IllegalArgumentException: Email address: 'joedoe' has no required @
+
+
+Running Test 1a: 
+java.lang.NullPointerException
+
+Process finished with exit code 0

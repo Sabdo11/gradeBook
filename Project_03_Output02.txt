@@ -1,0 +1,35 @@
+StudentID	First Name	Last Name	Email
+900123456	Joe	Doe	joedoe@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+	2			23456			HW		20190112		100			65
+	3			23456			HW		20190112		100			95
+	3			23456			HW		20190114		100			95
+=========================================================================================
+	Total											300		255			85.0%
+
+900123457	Jane	Doe	janedoe@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+=========================================================================================
+	Total											0		0			0.0%
+
+900123458	Mary	Smith	marysmith@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+	1			23456			HW		20190112		100			100
+	2			23456			HW		20190112		100			95
+	3			23456			HW		20190112		100			75
+=========================================================================================
+	Total											300		270			90.0%
+
+900123459	David	Smith	davidsmith@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+	1			23456			HW		20190112		100			100
+	2			23456			HW		20190112		100			85
+	3			23456			HW		20190112		100			100
+=========================================================================================
+	Total											300		285			95.0%
+
+900123457	Joe	Doe	joedoe@msudenver.edu
+	GradeItemID	CourseID		Type	Date	Maximum Score	Actual Score	Grade(%)
+=========================================================================================
+	Total											0		0			0.0%
+

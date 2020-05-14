@@ -1,0 +1,16 @@
+Please enter a file number: 04
+Reading data from file Project_03_Input04.txt
+Student with Student Id 900123456 was added to the list
+java.lang.IllegalArgumentException: Email address: 'joedoe&msudenver.edu' has no required @
+Student was not added to the list
+Student with Student Id 900123457 was added to the list
+Student with Student Id 900123458 was added to the list
+Student with Student Id 900123459 was added to the list
+java.lang.IllegalArgumentException: This ItemType is not on the itemtype list 
+Grade Item was not added to the list
+Student with Student Id 900123457 was added to the list
+Student with Student Id 900123452 is not in the list 
+java.lang.IllegalArgumentException: Actual score can not be 0
+Grade Item was not removed from the list
+Student with Student Id 900123425 was added to the list
+Generating report to file Project_03_Output04.txt ... done.

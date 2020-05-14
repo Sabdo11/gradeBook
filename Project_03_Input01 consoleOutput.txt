@@ -1,0 +1,19 @@
+Please enter a file number: 01
+Reading data from file Project_03_Input01.txt
+java.lang.IllegalArgumentException: Email address: 'joedoe#msudenver.edu' has no required @
+Student was not added to the list
+Student with Student Id 900123456 was added to the list
+Student with Student Id 900123456 is already in the list
+Grade Item with Grade Item Id 1 was added to the list
+Student with Student Id 900123457 was added to the list
+Student with Student Id 900123458 was added to the list
+Student with Student Id 900123459 was added to the list
+Grade Item with Grade Item Id 2 was added to the list
+Grade Item with Grade Item Id 3 was added to the list
+Student with Student Id 900123457 was added to the list
+Student with Student Id 900123456 was removed from the list
+Grade Item with Grade Item Id 1 was removed from the list
+Student with Student Id 900123456 is not in the list 
+Generating report to file Project_03_Output01.txt ... done.
+
+Process finished with exit code 0
