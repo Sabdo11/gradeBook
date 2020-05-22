@@ -4,14 +4,9 @@ package com.selam.gradeBook.domain.drivers;
  * project: # 2
  * IDE: Intellij
  * Operating System : OSX
- *
- *
- *
- *
  * @author Selamawit Abdo
  * @Date:10/01/2019
  * @version : 0.1
- *
  */
 
 import com.selam.gradeBook.domain.helpers.FileNumber;
