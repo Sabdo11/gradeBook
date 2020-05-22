@@ -1,7 +1,0 @@
-1.CHECKING FILE NOT FOUND EXCEPTION:
-
-
-Please enter a file number: 09
-java.io.FileNotFoundException: Project_02_Input09.txt (No such file or directory)
-
-Process finished with exit code 0
