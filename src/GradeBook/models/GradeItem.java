@@ -2,11 +2,9 @@ package GradeBook.models;
 
 /**
  * The GradeItem class - the purpose of this class is to create a grade item for various courses.
- * 
  * project: # 1
  * IDE: Eclipse
  * Operating System : OSX
- * 
  * @author selamawitabdo
  * @Date:08/27/2019
  * @version : 0.1

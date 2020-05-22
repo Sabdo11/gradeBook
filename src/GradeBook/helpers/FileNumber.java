@@ -76,12 +76,12 @@ public class FileNumber {
             if (args.length > 0) {
                 result = args[0];
             }
-        } // End if
+        }
         else if (option.equals(FROM_USER)) {
             keyboard = new Scanner(System.in);
             System.out.print("Please enter a file number: ");
             result = keyboard.nextLine();
-        } // End else if
+        }
         // If option isn't recognized, the result variable is already set
 
         // Before returning, convert a single digit result to "0" followed

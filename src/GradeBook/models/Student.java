@@ -7,12 +7,7 @@ package GradeBook.models;
  * project: # 1
  * IDE: Eclipse
  * Operating System : OSX
- *  
- * Perspicuity: It refers to something that can be seen through, clearness of style or exposition, freedom from obscurity
  *
- * “The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.” 
- *  The auther of this quote is Winston Churchill Winston Churchill is Former British Prime Minister, who was born in November 30 1874 and died on January 24 1965
- *         
  *  @author selamawit abdo
  *  @Date:08/27/2019
  *  @version : 0.1

@@ -3,8 +3,6 @@ package GradeBook.drivers;
  * project: # 3
  * IDE: Intellij
  * Operating System : OSX
- *
- *
  * @author Selamawit Abdo
  * @Date:10/03/2019
  * @version : 0.1

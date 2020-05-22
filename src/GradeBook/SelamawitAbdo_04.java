@@ -3,10 +3,6 @@ package GradeBook;
  * project: # 4
  * IDE: Intellij
  * Operating System : OSX
- *
- *
- *
- *
  * @author Selamawit Abdo
  * @Date:10/28/2019
  * @version : 0.1
