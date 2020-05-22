@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.selam.gradeBook.domain","l":"FirstnameLastname_02"},{"p":"com.selam.gradeBook.domain","l":"GradeItem"},{"p":"com.selam.gradeBook.domain","l":"Student"},{"p":"com.selam.gradeBook.domain","l":"Test"}]
